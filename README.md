@@ -1,4 +1,4 @@
-Hi, I'm Yuvaneshwarran R<br>
+# Hi, I'm Yuvaneshwarran R<br>
 # 💫 About Me:
 I'm a passionate upcoming Software Developer specializing in Machine Learning and Full Stack Web Development. I love exploring innovative solutions and building impactful projects. Currently, I'm pursuing an Integrated M.Sc. in Theoretical Computer Science at PSG College of Technology
 
